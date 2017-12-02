@@ -1,0 +1,4 @@
+name: EasyLib
+version: ${project.version}
+main: me.zhanshi123.easylib.Main
+authors: [Soldier]
